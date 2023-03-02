@@ -10,7 +10,7 @@ During my studies in the Rocketseat Ignite program, I focused mainly on ReactJS,
 - [Ignite Shop](https://github.com/bw3sley/ignite-shop)
 
 ## Challenges
-- [Ignite to do](https://www.figma.com/)
+- [Ignite to do](https://github.com/bw3sley/ignite-shop)
 
 ## Masterclass
 - [Ignite Twitter UI](https://github.com/bw3sley/ignite-twitter-ui)
